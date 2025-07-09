@@ -9,12 +9,12 @@ const socialLinks = [
   },
   {
     icon: Linkedin,
-    href: "www.linkedin.com/in/phanichander",
+    href: "https://www.linkedin.com/in/phanichander/",
     label: "LinkedIn",
   },
   {
     icon: Twitter,
-    href: "https://twitter.com/johnportfolio",
+    href: "https://twitter.com/phanichander",
     label: "Twitter",
   },
 ];
@@ -95,7 +95,7 @@ const Home: React.FC = () => (
           View My Work
         </a>
         <a
-          href="/cv.pdf"
+          href="/Phani_Chander_Resume_usa.pdf"
           download
           className="px-8 py-3 border-2 border-white/30 rounded-full font-semibold hover:bg-white/10 transition-all duration-300 backdrop-blur-sm"
         >
