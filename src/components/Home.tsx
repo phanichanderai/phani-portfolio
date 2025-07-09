@@ -4,12 +4,12 @@ import { Github, Linkedin, Twitter, Mail, MapPin, Phone } from "lucide-react";
 const socialLinks = [
   {
     icon: Github,
-    href: "https://github.com/johnportfolio",
+    href: "https://github.com/phanichanderai",
     label: "GitHub",
   },
   {
     icon: Linkedin,
-    href: "https://linkedin.com/in/johnportfolio",
+    href: "www.linkedin.com/in/phanichander",
     label: "LinkedIn",
   },
   {
