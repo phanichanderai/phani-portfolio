@@ -14,12 +14,12 @@ const projects = [
     views: "2.3k"
   },
   {
-    title: "Task Manager App",
-    description: "A productivity app to manage daily tasks, built with TypeScript and Firebase.",
-    tech: ["TypeScript", "Firebase", "React"],
-    github: "https://github.com/yourusername/task-manager",
-    demo: "https://task-manager-demo.vercel.app",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
+    title: "Drone Project Website",
+    description: "A productivity app to know about the prices and Drone models with their price.",
+    tech: ["TypeScript", "Tailwind css", "React", "Git"],
+    github: "https://github.com/phanichanderai/Droneproject",
+    demo: "https://droneproject-delta.vercel.app/",
+    image: "/droneproject.png",
     stars: 89,
     views: "1.8k"
   },

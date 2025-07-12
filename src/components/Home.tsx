@@ -47,7 +47,7 @@ const Home: React.FC = () => (
         phani chander Mallampalli
       </h1>
       <h2 className="text-2xl md:text-3xl font-light mb-6 text-blue-200 animate-fade-in-delay">
-        Ultra Pro Max Developer
+        Developer
       </h2>
       <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto leading-relaxed animate-fade-in-delay-2">
         Passionate about building next-generation web experiences with cutting-edge technologies.
