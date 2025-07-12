@@ -7,9 +7,9 @@ const projects = [
     title: "Portfolio Website",
     description: "A modern, responsive portfolio built with React and Tailwind CSS.",
     tech: ["React", "Tailwind CSS", "TypeScript"],
-    github: "https://github.com/yourusername/portfolio",
-    demo: "https://yourportfolio.com",
-    image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=500&h=300&fit=crop",
+    github: "https://github.com/phanichanderai/phani-portfolio",
+    demo: "https://phani-learnings.vercel.app/",
+    image: "/portfolioimage.png",
     stars: 142,
     views: "2.3k"
   },
