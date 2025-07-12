@@ -2,9 +2,9 @@ import React from "react";
 import { Code2, Lightbulb, Users, Target, Award, Rocket } from "lucide-react";
 
 const achievements = [
-  { number: "50+", label: "Projects Completed" },
-  { number: "5+", label: "Years Experience" },
-  { number: "20+", label: "Technologies Mastered" },
+  { number: "5+", label: "Projects Completed" },
+  { number: "3+", label: "Years Experience" },
+  { number: "6+", label: "Technologies Mastered" },
   { number: "100%", label: "Client Satisfaction" }
 ];
 

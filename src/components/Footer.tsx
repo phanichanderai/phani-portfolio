@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
                   Phani Chander Mallampalli
                 </h3>
                 <p className="text-gray-300 leading-relaxed max-w-md">
-                  Ultra Pro Max Developer passionate about building next-generation web experiences 
+                  A developer passionate about building next-generation web experiences 
                   with cutting-edge technologies. Let's create something amazing together.
                 </p>
               </div>
